@@ -27,3 +27,6 @@ map_data4 = data4[['tripduration', 'start station id', 'end station id','start s
 
 
 map_data1.to_csv('Map_data1.csv')
+map_data2.to_csv('Map_data2.csv')
+map_data3.to_csv('Map_data3.csv')
+map_data4.to_csv('Map_data4.csv')
